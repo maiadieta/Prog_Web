@@ -102,7 +102,7 @@ main, section {
   color: #8b6b55;
 }
 
-/* Botón de cancelar - más pequeño y sutil */
+/* Botón de cancelar */
 .btn-cancelar {
   display: inline-block;
   padding: 0.5rem 1rem;
@@ -129,7 +129,7 @@ main, section {
     margin-top: 1rem;
 }
 
-/* Lista de cafés - Estilos mejorados */
+/* Lista de cafés */
 .lista-cafe {
   list-style: none;
   padding: 0;
