@@ -7,7 +7,7 @@ La estructura y los estilos aplicados responden a los principios básicos de HTM
 Se utilizó HTML5 para organizar el contenido de manera clara y semántica:
 
 - Cada documento comienza con la declaración <!DOCTYPE html> y la etiqueta <html lang="es">, cumpliendo la regla de accesibilidad e indexación en buscadores .
-- El contenido se organiza en encabezados jerárquicos (<h 1>, <h 2>, etc.) para dar orden lógico a la información. Ejemplo: en index.html, el <h1> destaca el título principal de la página.
+- El contenido se organiza en encabezados jerárquicos (<h 1>, <h 2>, etc.) para dar orden lógico a la información. Ejemplo: en index.html, el <h 1> destaca el título principal de la página.
 - Se emplean párrafos (<p>) para la descripción de la empresa y los productos, garantizando que el texto sea legible.
 - Se incluyen enlaces de navegación (<a>) entre páginas, lo que mejora la usabilidad. Por ejemplo:
         </nav/>
