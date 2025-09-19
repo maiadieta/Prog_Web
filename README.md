@@ -10,11 +10,11 @@ Se utilizó HTML5 para organizar el contenido de manera clara y semántica:
 - El contenido se organiza en encabezados jerárquicos (<h1>, <h2>, etc.) para dar orden lógico a la información. Ejemplo: en index.html, el <h1> destaca el título principal de la página.
 - Se emplean párrafos (<p>) para la descripción de la empresa y los productos, garantizando que el texto sea legible.
 - Se incluyen enlaces de navegación (<a>) entre páginas, lo que mejora la usabilidad. Por ejemplo:
-        <nav>
+        </nav/>
             <a href="index.html">Inicio</a>
             <a href="productos.html">Productos</a>
             <a href="contacto.html">Contacto</a>
-        </nav>
+        </nav/>
 - En la página productos.html se aplicaron listas y tablas, siguiendo lo visto en los apuntes de HTML , para organizar datos de forma clara y accesible.
 - En contacto.html, se usó un formulario (<form>) para permitir la interacción con el usuario (captura de nombre, correo y mensaje).
 - Esta estructura respeta el concepto de separar contenido y estilo, dejando al HTML solo la función de marcar información.
